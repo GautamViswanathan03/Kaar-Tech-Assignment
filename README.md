@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Kaar Tech Registration App
 
 A full-stack registration application built with React frontend, native Node.js backend (without Express), MongoDB, and Selenium-based automated testing.
@@ -159,3 +160,7 @@ npm install chromedriver@<your-chrome-version> --save
 
 ISC
 
+=======
+# Kaar-Tech-Assignment
+A MERN Stack bases registration portal along with Selenium based Automated Testing
+>>>>>>> 4cc1872042fb36270e5786f2936f81010711b52f
