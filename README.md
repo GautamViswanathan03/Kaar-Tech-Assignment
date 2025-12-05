@@ -1,3 +1,7 @@
+<img width="1920" height="1128" alt="Screenshot 2025-12-05 182157" src="https://github.com/user-attachments/assets/45749067-b3b7-4a01-811d-9234154ead78" />
+<img width="1920" height="1128" alt="Screenshot 2025-12-05 185026" src="https://github.com/user-attachments/assets/b7bb022a-491b-4f87-b93a-20ed10cb000a" />
+<img width="1920" height="1128" alt="Screenshot 2025-12-05 185258" src="https://github.com/user-attachments/assets/1dde6282-9acb-4856-a7b7-45329bad25c7" />
+
 <<<<<<< HEAD
 # Kaar Tech Registration App
 
